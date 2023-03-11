@@ -18,6 +18,7 @@ I am a master student at the Technical University of Berlin and a full stack dev
 </ul>
 
 <h2> Latest blog posts 🥨 </h2>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
