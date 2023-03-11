@@ -17,31 +17,56 @@ I am a master student at the Technical University of Berlin and a full stack dev
     </li>
 </ul>
 
-<br>
-
 <h2> Latest blog posts 🥨 </h2>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<br><br>
-
+<div style="display: flex;">
+<div style="margin-right: 4rem;">
 <h2>My current full stack dev-kit:</h2>
 
-- Typescript
-- Next.js
-- TailwindCSS
-- Prisma
-- tRPC
-- Framer Motion
+<ul>
+    <li>
+        Typescript
+    </li>
+    <li>
+        Next.js
+    </li>
+    <li>
+        TailwindCSS
+    </li>
+    <li>
+        Prisma
+    </li>
+    <li>
+        tRPC
+    </li>
+    <li>
+        Framer Motion
+    </li>
+</ul>
 
+</div>
+
+<div>
 <h2>Deploying on:</h2>
 
-- Vercel
-- Netlify
-- Planetscale
-- Linode
-
-<br>
+<ul>
+    <li>
+        Vercel
+    </li>
+    <li>
+        Netlify
+    </li>
+    <li>
+        Planetscale
+    </li>
+    <li>
+        Linode
+    </li>
+</ul>
+</div>
+</div>
 
 <h2 style="margin-bottom: 1rem;">Contact me on:</h2>
 <div style="display: flex; justify-content: space-evenly; align-items: center;">
