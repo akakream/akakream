@@ -19,6 +19,9 @@ I am a master student at the Technical University of Berlin and a full stack dev
 
 <h2> Latest blog posts 🥨 </h2>
 <!-- BLOG-POST-LIST:START -->
+- [I am building a web app.](https://simitandaberliner.netlify.app/blog/iAmBuildingAnApp/)
+- [The role of Artificial Intelligence in future technology](https://simitandaberliner.netlify.app/blog/RoleofAIinTutureTechnology/)
+- [I have a blog, finally](https://simitandaberliner.netlify.app/blog/ihaveaBlog/)
 <!-- BLOG-POST-LIST:END -->
 
 <div style="display: flex;">
