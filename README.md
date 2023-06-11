@@ -4,7 +4,7 @@ I am a master student at the Technical University of Berlin and a full stack dev
 
 <ul>
     <li>
-        I am interested in full stack development and deep learning applications.
+        I am interested in full stack development, GO and deep learning applications.
     </li>
     <li>
         Check out <a href="https://guide-pal.vercel.app/" target="_blank">GuidePal</a>, bringing guides and visitors together.
