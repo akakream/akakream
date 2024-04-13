@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kerem!</h1>
 
-I am a master student at the Technical University of Berlin and a software engineer at HeyJobs.
+I am a software engineer at HeyJobs.
 
 <ul>
     <li>
