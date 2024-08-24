@@ -1,10 +1,10 @@
 <h1>Hi, I'm Kerem!</h1>
 
-I am a software engineer at HeyJobs.
+I am a software engineer at SumUp.
 
 <ul>
     <li>
-        I am interested in full stack development, GO and deep learning applications.
+        I am interested in full stack development and Go.
     </li>
     <li>
         Check out <a href="https://guide-pal.vercel.app/" target="_blank">GuidePal</a>, bringing guides and visitors together.
