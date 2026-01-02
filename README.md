@@ -24,7 +24,6 @@ I am a software engineer at SumUp.
 - [WAT](https://simitandaberliner.netlify.app/blog/WAT/)
 - [I am building a web app.](https://simitandaberliner.netlify.app/blog/iAmBuildingAnApp/)
 - [The role of Artificial Intelligence in future technology](https://simitandaberliner.netlify.app/blog/RoleofAIinTutureTechnology/)
-- [I have a blog, finally](https://simitandaberliner.netlify.app/blog/ihaveaBlog/)
 <!-- BLOG-POST-LIST:END -->
 
 <div style="display: flex;">
